@@ -10,3 +10,4 @@
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/refint/ImageGallery.Model.dll
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.pdb
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ref/ImageGallery.Model.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.sourcelink.json

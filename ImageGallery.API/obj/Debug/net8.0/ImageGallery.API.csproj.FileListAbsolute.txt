@@ -145,3 +145,4 @@
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.API/bin/Debug/net8.0/ImageGallery.Authorization.pdb
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.API/bin/Debug/net8.0/IdentityModel.dll
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.API/bin/Debug/net8.0/IdentityModel.AspNetCore.OAuth2Introspection.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.API/obj/Debug/net8.0/ImageGallery.API.sourcelink.json

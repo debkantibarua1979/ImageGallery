@@ -60,3 +60,4 @@
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.IDP/obj/Debug/net8.0/ImageGallery.IDP.pdb
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.IDP/obj/Debug/net8.0/ImageGallery.IDP.genruntimeconfig.cache
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.IDP/obj/Debug/net8.0/ref/ImageGallery.IDP.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.IDP/obj/Debug/net8.0/ImageGallery.IDP.sourcelink.json

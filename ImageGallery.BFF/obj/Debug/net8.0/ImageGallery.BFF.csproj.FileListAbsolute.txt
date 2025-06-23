@@ -50,3 +50,4 @@
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.BFF/obj/Debug/net8.0/ImageGallery.BFF.pdb
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.BFF/obj/Debug/net8.0/ImageGallery.BFF.genruntimeconfig.cache
 /Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.BFF/obj/Debug/net8.0/ref/ImageGallery.BFF.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.BFF/obj/Debug/net8.0/ImageGallery.BFF.sourcelink.json
