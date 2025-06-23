@@ -1,0 +1,12 @@
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/bin/Debug/net8.0/ImageGallery.Model.deps.json
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/bin/Debug/net8.0/ImageGallery.Model.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/bin/Debug/net8.0/ImageGallery.Model.pdb
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.csproj.AssemblyReference.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/refint/ImageGallery.Model.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ImageGallery.Model.pdb
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Model/obj/Debug/net8.0/ref/ImageGallery.Model.dll

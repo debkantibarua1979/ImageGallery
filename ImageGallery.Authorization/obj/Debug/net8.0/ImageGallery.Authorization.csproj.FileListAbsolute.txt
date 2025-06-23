@@ -1,0 +1,12 @@
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/bin/Debug/net8.0/ImageGallery.Authorization.deps.json
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/bin/Debug/net8.0/ImageGallery.Authorization.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/bin/Debug/net8.0/ImageGallery.Authorization.pdb
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.csproj.AssemblyReference.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.AssemblyInfoInputs.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.AssemblyInfo.cs
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.csproj.CoreCompileInputs.cache
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/refint/ImageGallery.Authorization.dll
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ImageGallery.Authorization.pdb
+/Users/dev-565790/Downloads/SecuringAspNetCoreWithOAuth2andOIDC-main/Starter files/ImageGallery.Authorization/obj/Debug/net8.0/ref/ImageGallery.Authorization.dll
