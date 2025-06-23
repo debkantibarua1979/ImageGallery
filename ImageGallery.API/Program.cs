@@ -33,7 +33,7 @@ JsonWebTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer();
+    //.AddJwtBearer();
     // options =>
     // {
     //     options.Authority = "https://localhost:5001";
@@ -45,14 +45,14 @@ builder.Services
     //         ValidTypes = new[] { "at+jwt" }
     //     };
     // });
-    // .AddOAuth2Introspection(options =>
-    // {
-    //     options.Authority = "https://localhost:5001";
-    //     options.ClientId = "imagegalleryapi";
-    //     options.ClientSecret = "apisecret";
-    //     options.NameClaimType = "name";
-    //     options.RoleClaimType = "role";
-    // });
+    .AddOAuth2Introspection(options =>
+    {
+        options.Authority = "https://localhost:5001";
+        options.ClientId = "imagegalleryapi";
+        options.ClientSecret = "apisecret";
+        options.NameClaimType = "name";
+        options.RoleClaimType = "role";
+    });
 
 builder.Services.AddAuthorization(authorizationOptions =>
 {
