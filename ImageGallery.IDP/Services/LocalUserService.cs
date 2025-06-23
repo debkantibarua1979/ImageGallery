@@ -1,8 +1,8 @@
-﻿using Marvin.IDP.DbContexts;
-using Marvin.IDP.Entities;
+﻿using ImageGallery.IDP.DbContexts;
+using ImageGallery.IDP.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Marvin.IDP.Services
+namespace ImageGallery.IDP.Services
 {
     public class LocalUserService : ILocalUserService
     {

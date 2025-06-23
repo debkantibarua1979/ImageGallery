@@ -1,4 +1,5 @@
-using Marvin.IDP.DbContexts;
+using ImageGallery.IDP.DbContexts;
+using ImageGallery.IDP.Services;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
@@ -10,6 +11,8 @@ internal static class HostingExtensions
     {
         // uncomment if you want to add a UI
         builder.Services.AddRazorPages();
+
+        builder.Services.AddScoped<ILocalUserService, LocalUserService>();
 
         builder.Services.AddDbContext<IdentityDbContext>(options =>
             options.UseSqlite(builder.Configuration.GetConnectionString("IdentityDBConnectionString")));
@@ -23,8 +26,8 @@ internal static class HostingExtensions
             .AddInMemoryApiScopes(Config.ApiScopes)
             .AddInMemoryApiResources(Config.Apis)
             .AddInMemoryClients(Config.Clients)
-            .AddTestUsers(TestUsers.Users);
-
+            .AddProfileService<LocalUserProfileService>();
+        
         return builder.Build();
     }
     

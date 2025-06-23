@@ -1,6 +1,6 @@
-﻿using Marvin.IDP.Entities;
+﻿using ImageGallery.IDP.Entities;
 
-namespace Marvin.IDP.Services
+namespace ImageGallery.IDP.Services
 {
     public interface ILocalUserService
     {

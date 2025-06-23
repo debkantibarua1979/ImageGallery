@@ -1,4 +1,4 @@
-﻿namespace Marvin.IDP.Entities
+﻿namespace ImageGallery.IDP.Entities
 {
     public interface IConcurrencyAware
     {

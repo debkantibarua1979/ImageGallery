@@ -1,7 +1,7 @@
-﻿using Marvin.IDP.Entities;
+﻿using ImageGallery.IDP.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Marvin.IDP.DbContexts
+namespace ImageGallery.IDP.DbContexts
 {
     public class IdentityDbContext : DbContext
     {
